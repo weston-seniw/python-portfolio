@@ -1,2 +1,2 @@
 # python-scripting-portfolio
-Portfolio for python based scripts
+Portfolio projects for python from 100 days of code course
